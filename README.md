@@ -8,7 +8,7 @@ Using React In Windows Basic Requirements:
 The things you need to install the software and how to install them
 
 * [Nodejs](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* Chocolatey - Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
+* [Chocolatey](https://chocolatey.org/install) - Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
   * To install execute the codes with a terminal (ex: In Windows use PowerShell):
     ```
     Get-ExecutionPolicy
