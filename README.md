@@ -22,7 +22,7 @@ The things you need to install the software and how to install them
     ```
     choco
     ```
-* Node.js, Yarn, Python2 e a JDK 8
+* [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/), [Python2](https://www.python.org/) and [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
   ```
   choco install -y nodejs-lts yarn python2 jdk8
   ```
