@@ -19,13 +19,14 @@ The things you need to install the software and how to install them
     ```
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
     ```
-    ```
-    choco
-    ```
 * [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/), [Python2](https://www.python.org/) and [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
   ```
   choco install -y nodejs-lts yarn python2 jdk8
   ```
+  
+### Optional
+* Visual Studio Code (VSC), code editor:
+https://code.visualstudio.com/
 
 </br>
 
