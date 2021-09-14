@@ -25,8 +25,7 @@ The things you need to install the software and how to install them
   ```
   
 ### Optional
-* Visual Studio Code (VSC), code editor:
-https://code.visualstudio.com/
+* [Visual Studio Code (VSC)](https://code.visualstudio.com/), code editor.
 
 </br>
 
