@@ -31,7 +31,7 @@ The things you need to install the software and how to install them
 
 - [NextJS](https://nextjs.org/), React framework. Installer:
   ```
-  npm i -g create-next-app
+  yarn global add create-next-app
   ```
 
 </br>
