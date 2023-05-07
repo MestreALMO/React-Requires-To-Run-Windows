@@ -29,7 +29,7 @@ The things you need to install the software and how to install them
 
 - [Visual Studio Code (VSC)](https://code.visualstudio.com/), code editor.
 
-- [Nextjs](https://nextjs.org/), React framework. Installer:
+- [NextJS](https://nextjs.org/), React framework. Installer:
   ```
   npm i -g create-next-app
   ```
