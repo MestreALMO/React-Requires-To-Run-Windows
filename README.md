@@ -24,10 +24,6 @@ The things you need to install the software and how to install them
   ```
   choco install -y nodejs-lts yarn python2 jdk8
   ```
-  In case above installation of yarn display error message, then try:
-  ```
-  npm install --global yarn
-  ```
 ### Optional
 
 - [Visual Studio Code (VSC)](https://code.visualstudio.com/), code editor.
