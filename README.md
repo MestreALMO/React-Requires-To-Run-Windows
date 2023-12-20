@@ -20,7 +20,7 @@ The things you need to install the software and how to install them
     ```
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
     ```
-- [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/), [Python2](https://www.python.org/) and [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+- [Node.js](https://nodejs.org/), [Python2](https://www.python.org/) and [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
   ```
   choco install -y nodejs-lts python2 jdk8
   ```
@@ -30,7 +30,7 @@ The things you need to install the software and how to install them
 
 - [NextJS](https://nextjs.org/), React framework. Installer:
   ```
-  yarn global add create-next-app
+  npx create-next-app@latest
   ```
 
 </br>
